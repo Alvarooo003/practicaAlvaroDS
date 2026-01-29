@@ -1,2 +1,1 @@
-# practicaAlvaroDS
-para practica
+Mi practicca de SSH
